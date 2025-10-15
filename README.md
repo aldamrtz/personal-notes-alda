@@ -1,7 +1,6 @@
 # 🗒️ Aplikasi Catatan Pribadi (React Notes App)
 
 Aplikasi berbasis web yang dibangun menggunakan React.js untuk menulis, menampilkan, menghapus, mencari, serta mengarsipkan catatan pribadi secara interaktif.
-Didesain dengan antarmuka sederhana dan responsif agar pengguna dapat mengelola catatan dengan mudah dan efisien.
 
 ## 🚀 Fitur
 - Tambah, tampilkan, hapus, dan arsipkan catatan pribadi
